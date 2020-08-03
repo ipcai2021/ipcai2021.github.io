@@ -1,0 +1,12 @@
+# Site settings
+title: IPCAI 2021
+email: alfred.franz@thu.de
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "www.ipcai.org" 
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown

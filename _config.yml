@@ -1,9 +1,9 @@
 # Site settings
-title: IPCAI 2019
-email: chene@robarts.ca
+title: IPCAI 2021
+email: alfred.franz@thu.de
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "www.ipcai2019.org" 
+url: "www.ipcai.org" 
 
 twitter_username:
 github_username:

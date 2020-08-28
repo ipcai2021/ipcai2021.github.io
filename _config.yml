@@ -3,7 +3,8 @@ title: IPCAI 2021
 email: info@ipcai.org
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "www.ipcai.org" 
+url: "www.ipcai.org"
+logo: "https://ipcai2021.github.io/img/ipcai_logo/IPCAI-Logo-Transparent.png" 
 
 twitter_username:
 github_username:
